@@ -1,0 +1,5 @@
+-copiar todos los archivos en una carpeta
+-abrir interfaz.m en matlab
+-elegir la placa a procesar
+
+
